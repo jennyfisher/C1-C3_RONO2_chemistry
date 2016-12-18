@@ -180,6 +180,9 @@
    73 MONITS     PHOTON     NO2        MEK                  0.00E+00  0.00    100.0  ONIT1
    74 MONITU     PHOTON     NO2        RCHO                 0.00E+00  0.00    100.0  ONIT1
    75 HONIT      PHOTON     NO2        HKET                 0.00E+00  0.00    100.0  ONIT1
+   76 MENO3      PHOTON     NO2        HO2        HCHO      0.00E+00  0.00    100.0  MeONO2
+   77 ETNO3      PHOTON     NO2        HO2        ALD2      0.00E+00  0.00    100.0  EtONO2
+   78 PRNO3      PHOTON     NO2        HO2   ACET   RCHO    0.00E+00  0.00    100.0  PrONO2
  9999                                                       0.00E-00  0.00      0.0         
 
 
